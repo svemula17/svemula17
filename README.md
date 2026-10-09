@@ -13,7 +13,7 @@ I'm a DevSecOps engineer at **Datadog** with 5+ years in security: SOC detection
 
 ### What I work on
 
-| | |
+| Area | Focus |
 |---|---|
 | **AI & LLM security** | Prompt injection defense, agent guardrails, MCP security, RAG hardening, AI red-teaming (OWASP LLM Top 10, MITRE ATLAS) |
 | **Cloud & DevSecOps** | AWS security, CI/CD security gates, infrastructure as code, compliance automation (SOC 2, ISO 27001, HIPAA) |
@@ -22,13 +22,13 @@ I'm a DevSecOps engineer at **Datadog** with 5+ years in security: SOC detection
 
 ### Featured projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**attest**](https://github.com/svemula17/attest) | Continuous compliance for SOC 2, ISO 27001 and HIPAA from one control catalog. Evidence is SHA-256 hash-chained, the AI agent only drafts answers it can cite, and a named human signs anything that leaves. | Python · Postgres · OIDC · MCP |
-| [**smart-siem-risk-engine**](https://github.com/svemula17/smart-siem-risk-engine) | SIEM + SOAR built from scratch: ingests raw events, maps them to MITRE ATT&CK, scores risk with an Isolation Forest model, triggers automated response and streams to a live analyst dashboard. | Python · FastAPI · scikit-learn |
-| [**vigil**](https://github.com/svemula17/vigil) | Real-time CCTV threat detection with YOLOv8, WebSocket streaming to a React dashboard, and SMS alerts. It never auto-dials emergency services; a human decides. | Python · YOLOv8 · FastAPI · React |
-| [**security-audit-rivet**](https://github.com/svemula17/security-audit-rivet) | Security audit of Ironclad's Rivet, an Electron app for building AI agents. 15 findings, 3 critical: code injection, ReDoS and XSS. | TypeScript · AppSec |
-| [**resume-to-portfolio**](https://github.com/svemula17/resume-to-portfolio) | Turns a resume into a static portfolio site entirely in the browser, with no backend, no upload and no LLM. [Live demo](https://svemula17.github.io/resume-to-portfolio/) | TypeScript |
+| Project | What it does |
+|---|---|
+| [**attest**](https://github.com/svemula17/attest) | Continuous compliance for SOC 2, ISO 27001 and HIPAA from one control catalog. Evidence is SHA-256 hash-chained, the AI agent only drafts answers it can cite, and a named human signs anything that leaves.<br><sub>Python · Postgres · OIDC · MCP</sub> |
+| [**smart-siem-risk-engine**](https://github.com/svemula17/smart-siem-risk-engine) | SIEM + SOAR built from scratch: ingests raw events, maps them to MITRE ATT&CK, scores risk with an Isolation Forest model, triggers automated response and streams to a live analyst dashboard.<br><sub>Python · FastAPI · scikit-learn</sub> |
+| [**vigil**](https://github.com/svemula17/vigil) | Real-time CCTV threat detection with YOLOv8, WebSocket streaming to a React dashboard, and SMS alerts. It never auto-dials emergency services; a human decides.<br><sub>Python · YOLOv8 · FastAPI · React</sub> |
+| [**security-audit-rivet**](https://github.com/svemula17/security-audit-rivet) | Security audit of Ironclad's Rivet, an Electron app for building AI agents. 15 findings, 3 critical: code injection, ReDoS and XSS.<br><sub>TypeScript · AppSec</sub> |
+| [**resume-to-portfolio**](https://github.com/svemula17/resume-to-portfolio) | Turns a resume into a static portfolio site entirely in the browser, with no backend, no upload and no LLM. [Live demo](https://svemula17.github.io/resume-to-portfolio/)<br><sub>TypeScript</sub> |
 
 ### Recently
 
